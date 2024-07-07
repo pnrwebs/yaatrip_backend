@@ -1,0 +1,678 @@
+[{
+  "_id": {
+    "$oid": "66806ecde2486f38ab92baab"
+  },
+  "property_name": "Taj Fort Aguada Resort & Spa, Goa",
+  "property_type": "Hotel",
+  "category": "5 Star",
+  "amenities": [
+    "WiFi",
+    "Hot Water",
+    "Swimming Pool",
+    "Play Ground"
+  ],
+  "timings": {
+    "checkin_time": "2 PM",
+    "checkout_time": "12 PM"
+  },
+  "rating": "4.5",
+  "email": "hello@gmail.com",
+  "contact_no": "9898989898",
+  "address": {
+    "complete_address": "Taj Fort Aguada Resort & Spa, Goa",
+    "location": "Goa",
+    "city": "Goa",
+    "state": "Goa",
+    "country": "India",
+    "nearby_location": "5 KM Away from city center",
+    "google_map": "234234242",
+    "longitude": "23534234",
+    "latitude": "2134234234"
+  },
+  "hotel_language": [
+    "Hindi",
+    "English"
+  ],
+  "booking_options": [
+    "Free Cancellation"
+  ],
+  "hotel_rules": [
+    "No Smoking",
+    "No Drinking"
+  ],
+  "property_owner_details": {
+    "fullname": "Rocky",
+    "contact_no": "9898989898",
+    "email": "hellogoa@gmail.com"
+  },
+  "cover_image": "hello.jpg",
+  "other_images": [
+    "hello.jpg",
+    "hello.jpg",
+    "hello.jpg"
+  ],
+  "added_date": "2024-07-01",
+  "admin_status": false,
+  "status": false,
+  "created_at": {
+    "$date": "2024-06-29T20:30:05.459Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-29T20:30:05.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66842e8aa48e6e9716ae15e7"
+  },
+  "property_name": "hwlej",
+  "property_type": "Hotel",
+  "category": "4 Star",
+  "amenities": [
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    }
+  ],
+  "timings": {
+    "checkin_time": "22:16",
+    "checkout_time": "22:17"
+  },
+  "ratings": "4.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "5342455",
+  "address": {
+    "complete_address": "agdfads",
+    "location": "dgsdg",
+    "city": "dsgdfg",
+    "state": "Andhra Pradesh",
+    "country": "AX",
+    "nearby_location": "sdgdfsg",
+    "google_map": "",
+    "longitude": "234",
+    "latitude": "324234"
+  },
+  "hotel_language": [
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    },
+    {
+      "label": "বাংলা - Bangla",
+      "value": "বাংলা - Bangla"
+    },
+    {
+      "label": "ગુજરાતી - Gujarati",
+      "value": "ગુજરાતી - Gujarati"
+    },
+    {
+      "label": "தமிழ் - Tamil",
+      "value": "தமிழ் - Tamil"
+    },
+    {
+      "label": "ಕನ್ನಡ - Kannada",
+      "value": "ಕನ್ನಡ - Kannada"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    },
+    {
+      "label": "English",
+      "value": "English"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T16:44:58.274Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T16:44:58.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668432b5d111094c2b680f0c"
+  },
+  "property_name": "dfsdaf",
+  "property_type": "Apartment",
+  "category": "4 Star",
+  "amenities": [
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    },
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "Medical",
+      "value": "Medical"
+    }
+  ],
+  "timings": {
+    "checkin_time": "22:35",
+    "checkout_time": "13:32"
+  },
+  "ratings": "3.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "2353245",
+  "address": {
+    "complete_address": "dsgdg",
+    "location": "sdfg",
+    "city": "sdgfg",
+    "state": "Andhra Pradesh",
+    "country": "DZ",
+    "nearby_location": "sdfg",
+    "google_map": "",
+    "longitude": "345",
+    "latitude": "435345"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T17:02:45.736Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T17:02:45.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66843960d111094c2b680f11"
+  },
+  "property_name": "dgdgsdf",
+  "property_type": "Apartment",
+  "category": "3 Star",
+  "amenities": [
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "Medical",
+      "value": "Medical"
+    }
+  ],
+  "timings": {
+    "checkin_time": "14:00",
+    "checkout_time": "15:00"
+  },
+  "ratings": "4.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "342",
+  "address": {
+    "complete_address": "sadf",
+    "location": "sdf",
+    "city": "sdf",
+    "state": "Assam",
+    "country": "AX",
+    "nearby_location": "sdaf",
+    "google_map": "",
+    "longitude": "544",
+    "latitude": "2342"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T17:31:12.837Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T17:31:12.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668439b1340c912b4edbbb80"
+  },
+  "property_name": "dgdgsdf",
+  "property_type": "Apartment",
+  "category": "3 Star",
+  "amenities": [
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "Medical",
+      "value": "Medical"
+    }
+  ],
+  "timings": {
+    "checkin_time": "14:00",
+    "checkout_time": "15:00"
+  },
+  "ratings": "4.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "342",
+  "address": {
+    "complete_address": "sadf",
+    "location": "sdf",
+    "city": "sdf",
+    "state": "Assam",
+    "country": "AX",
+    "nearby_location": "sdaf",
+    "google_map": "",
+    "longitude": "544",
+    "latitude": "2342"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T17:32:33.096Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T17:32:33.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668445ccd3f1acf146f91f30"
+  },
+  "property_name": "gadsf",
+  "property_type": "Apartment",
+  "category": "4 Star",
+  "amenities": [
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    },
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "Medical",
+      "value": "Medical"
+    }
+  ],
+  "timings": {
+    "checkin_time": "23:56",
+    "checkout_time": "14:56"
+  },
+  "ratings": "4.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "343423",
+  "address": {
+    "complete_address": "dsfsad",
+    "location": "fasd",
+    "city": "sadfasdf",
+    "state": "Dadra and Nagar Haveli",
+    "country": "AL",
+    "nearby_location": "fsadf",
+    "google_map": "",
+    "longitude": "234234",
+    "latitude": "34324"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T18:24:12.990Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T18:24:12.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66844991f6008e845b559ef0"
+  },
+  "property_name": "zdvsdf",
+  "property_type": "Apartment",
+  "category": "5 Star",
+  "amenities": [
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    },
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    }
+  ],
+  "timings": {
+    "checkin_time": "02:12",
+    "checkout_time": "03:15"
+  },
+  "ratings": "4",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "234234",
+  "address": {
+    "complete_address": "sefrdasfv",
+    "location": "dfsdfsd",
+    "city": "sfsd",
+    "state": "Dadra and Nagar Haveli",
+    "country": "AI",
+    "nearby_location": "fsdf",
+    "google_map": "",
+    "longitude": "234234",
+    "latitude": "24324"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T18:40:17.314Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T18:40:17.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66845291a74060ca6c76b3a9"
+  },
+  "property_name": "sdffsdf",
+  "property_type": "Hotel",
+  "category": "3 Star",
+  "amenities": [
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    }
+  ],
+  "timings": {
+    "checkin_time": "00:51",
+    "checkout_time": "00:53"
+  },
+  "ratings": "2.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "5423434234",
+  "address": {
+    "complete_address": "sdagsdfsdfsdf",
+    "location": "sdfs",
+    "city": "fsdfsdf",
+    "state": "Assam",
+    "country": "DZ",
+    "nearby_location": "dfsdf",
+    "google_map": "",
+    "longitude": "234234",
+    "latitude": "342342"
+  },
+  "hotel_language": [
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T19:18:41.110Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T19:18:41.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66845533a74060ca6c76b3b2"
+  },
+  "property_name": "dgdsfs",
+  "property_type": "Apartment",
+  "category": "4 Star",
+  "amenities": [
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    },
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "Medical",
+      "value": "Medical"
+    }
+  ],
+  "timings": {
+    "checkin_time": "00:01",
+    "checkout_time": "00:01"
+  },
+  "ratings": "0",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "234234243",
+  "address": {
+    "complete_address": "dsfsdf",
+    "location": "sdfsd",
+    "city": "sdfsdf",
+    "state": "Bihar",
+    "country": "AL",
+    "nearby_location": "fsdf",
+    "google_map": "",
+    "longitude": "23434",
+    "latitude": "34324"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    },
+    {
+      "label": "বাংলা - Bangla",
+      "value": "বাংলা - Bangla"
+    },
+    {
+      "label": "ગુજરાતી - Gujarati",
+      "value": "ગુજરાતી - Gujarati"
+    },
+    {
+      "label": "தமிழ் - Tamil",
+      "value": "தமிழ் - Tamil"
+    },
+    {
+      "label": "ಕನ್ನಡ - Kannada",
+      "value": "ಕನ್ನಡ - Kannada"
+    },
+    {
+      "label": "हिन्दी - Hindi",
+      "value": "हिन्दी - Hindi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "cover_image": "1719948595875-oleksii-shikov-nKZy1rfkAIc-unsplash.jpg",
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T19:29:55.970Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T19:29:55.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668455c0a74060ca6c76b3b5"
+  },
+  "property_name": "dfsdfsdf",
+  "property_type": "Apartment",
+  "category": "5 Star",
+  "amenities": [
+    {
+      "label": "WiFi",
+      "value": "WiFi"
+    },
+    {
+      "label": "Swimming Pool",
+      "value": "Swimming Pool"
+    },
+    {
+      "label": "Medical",
+      "value": "Medical"
+    }
+  ],
+  "timings": {
+    "checkin_time": "01:04",
+    "checkout_time": "01:03"
+  },
+  "ratings": "3.5",
+  "email": "ranjanrocky18@gmail.com",
+  "contact_no": "42342342",
+  "address": {
+    "complete_address": "dfsfs",
+    "location": "dfsdfs",
+    "city": "sdfsdfsd",
+    "state": "Andhra Pradesh",
+    "country": "AL",
+    "nearby_location": "fsdf",
+    "google_map": "",
+    "longitude": "234234",
+    "latitude": "24234"
+  },
+  "hotel_language": [
+    {
+      "label": "English",
+      "value": "English"
+    },
+    {
+      "label": "मराठी - Marathi",
+      "value": "मराठी - Marathi"
+    }
+  ],
+  "property_owner_details": {
+    "fullname": "",
+    "contact_no": "",
+    "email": ""
+  },
+  "cover_image": "1719948736121-oleksii-shikov-nKZy1rfkAIc-unsplash.jpg",
+  "admin_status": true,
+  "status": true,
+  "created_at": {
+    "$date": "2024-07-02T19:32:16.171Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T19:32:16.171Z"
+  },
+  "__v": 0
+}]

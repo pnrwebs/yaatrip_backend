@@ -1,0 +1,153 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "This documentation is the collection of all the API and its Response structure with payload.",
+    "version": "1.0.0",
+    "title": "TradieSpec API Collection",
+    "contact": {
+      "email": "rockyverma@virtualemployee.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "tag": [
+    {
+      "name": "User",
+      "description": "All the user related api will be listed under this section."
+    },
+    {
+      "name": "Public",
+      "description": "All the public frontend api's list"
+    }
+  ],
+  "schemes": ["http"],
+  "host": "http://127.0.0.1:3001",
+  "basePath": "/api",
+  "paths": {
+    "/user/login": {
+      "post": {
+        "tags": ["User"],
+        "summary": "Customer login api",
+        "description": "Let the customer login using this api",
+        "produces": ["application/json"],
+        "parameters": [],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/definitions/loginvalue"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Login Successful",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/loginResponse"
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid status value",
+            "schema": {
+              "$ref": "#/definitions/InvalidResponse"
+            }
+          }
+        }
+      }
+    },
+    "/todo": {
+      "post": {
+        "summary": "Save the task",
+        "description": "Save the task",
+        "produces": ["application/json"],
+        "consumes": ["application/json"],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "task object",
+            "required": true,
+            "schema": {
+              "type": "object",
+              "properties": {
+                "task": {
+                  "type": "object",
+                  "$ref": "#/definitions/Task"
+                }
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/todosResponse"
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid status value",
+            "schema": {
+              "$ref": "#/definitions/InvalidResponse"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "loginvalue": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "description": "enter email address",
+          "example": "example@gmail.com"
+        },
+        "password": {
+          "type": "string",
+          "description": "enter your password",
+          "example": "xxxxxxx"
+        }
+      }
+    },
+    "loginResponse": {
+      "type": "object",
+      "properties": {}
+    },
+    "Task": {
+      "type": "object",
+      "properties": {
+        "task": {
+          "type": "string"
+        },
+        "assignee": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string"
+        }
+      }
+    },
+    "InvalidResponse": {
+      "type": "object",
+      "properties": {
+        "statusCode": {
+          "type": "string"
+        },
+        "message": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

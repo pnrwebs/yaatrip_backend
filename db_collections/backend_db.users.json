@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "63b4619e79ea0b5c189a7bf7"
+  },
+  "userid": "123456",
+  "first_name": "Rocky",
+  "last_name": "Ranjan",
+  "email": "rocky1001@gmail.com",
+  "password": "$2a$10$bWif4EdTE8LbMPtwaSJeeuqc1bp8oVrZUoFI2Z5uH9k59fmphPPC2",
+  "phone_no": 1234567890,
+  "designation": "2",
+  "role": "1",
+  "two_steps": false,
+  "status": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2M2I0NjE5ZTc5ZWEwYjVjMTg5YTdiZjciLCJlbWFpbCI6InJvY2t5MTAwMUBnbWFpbC5jb20iLCJpYXQiOjE3MTk5NDc4NTgsImV4cCI6MTcxOTk1MTQ1OH0.ADgqsb3yTMnJnJ5T1nH_o7rBIPpxEfCmF5y6UolILMg",
+  "ip_address": "43.227.227.146",
+  "last_login_time": {
+    "$date": "2024-07-02T19:17:35.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  },
+  "updated_at": {
+    "$date": "2024-07-02T19:17:38.427Z"
+  },
+  "__v": 0,
+  "created_at": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "position": ""
+},
+{
+  "_id": {
+    "$oid": "63b4619e79ea0b5c189a7bf8"
+  },
+  "userid": "123456",
+  "first_name": "Amit",
+  "last_name": "Jangra",
+  "email": "amit@gmail.com",
+  "password": "$2a$10$bWif4EdTE8LbMPtwaSJeeuqc1bp8oVrZUoFI2Z5uH9k59fmphPPC2",
+  "phone_no": 1234567890,
+  "designation": "2",
+  "role": "1",
+  "two_steps": false,
+  "status": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2M2I0NjE5ZTc5ZWEwYjVjMTg5YTdiZjciLCJlbWFpbCI6InJvY2t5MTAwMUBnbWFpbC5jb20iLCJpYXQiOjE3MTg1Mzc1MjEsImV4cCI6MTcxODU0MTEyMX0.Cm_IdkeGYMT5kXLMq1_7LSobOkscUDZNTOdznbQSVsc",
+  "ip_address": "43.227.227.156",
+  "last_login_time": {
+    "$date": "2024-06-16T11:32:00.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-16T11:32:01.673Z"
+  },
+  "__v": 0,
+  "created_at": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "63b4619e79ea0b5c189a7bf9"
+  },
+  "userid": "123456",
+  "first_name": "Kamlesh",
+  "last_name": "Kumar",
+  "email": "kamlesh@gmail.com",
+  "password": "$2a$10$bWif4EdTE8LbMPtwaSJeeuqc1bp8oVrZUoFI2Z5uH9k59fmphPPC2",
+  "phone_no": 1234567890,
+  "designation": "2",
+  "role": "1",
+  "two_steps": false,
+  "status": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2M2I0NjE5ZTc5ZWEwYjVjMTg5YTdiZjciLCJlbWFpbCI6InJvY2t5MTAwMUBnbWFpbC5jb20iLCJpYXQiOjE3MTg1Mzc1MjEsImV4cCI6MTcxODU0MTEyMX0.Cm_IdkeGYMT5kXLMq1_7LSobOkscUDZNTOdznbQSVsc",
+  "ip_address": "43.227.227.156",
+  "last_login_time": {
+    "$date": "2024-06-16T11:32:00.886Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-16T11:32:01.673Z"
+  },
+  "__v": 0,
+  "created_at": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670726faf74a6b4daed7191"
+  },
+  "first_name": "Rocky",
+  "last_name": "Ranjan",
+  "email": "hello1@gmail.com",
+  "password": "$2a$10$RkGPOzWKWWplt6G4MwJ5iOGe.uqiiAvKZ3a2O0740MrMsaE526tFi",
+  "position": "",
+  "role": "1",
+  "status": true,
+  "token": "",
+  "last_login_time": null,
+  "last_logout_time": null,
+  "ip_address": "",
+  "created_at": {
+    "$date": "2024-06-17T17:29:19.891Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-17T17:29:19.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667076b1657d8bbc0f4e8ed2"
+  },
+  "first_name": "Mukesh",
+  "last_name": "Chandra",
+  "email": "mukesh@gmail.com",
+  "password": "$2a$10$DHwcoUl8t7QelT0XzcQq5u4amLp70/CCHIgDdqLEGH6EGtkSzcytW",
+  "position": "",
+  "role": "Developer",
+  "status": true,
+  "token": "",
+  "last_login_time": null,
+  "last_logout_time": null,
+  "ip_address": "",
+  "created_at": {
+    "$date": "2024-06-17T17:47:29.800Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-17T17:47:29.800Z"
+  },
+  "__v": 0
+}]

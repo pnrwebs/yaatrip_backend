@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6670094799692507c4365446"
+  },
+  "name": "Administrator",
+  "descriptions": "Super Admin with full access",
+  "permissions": {},
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-16T11:32:01.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667f9c0ec369d7d37ff8772a"
+  },
+  "name": "testing",
+  "descriptions": "This is roles",
+  "status": true,
+  "created_at": {
+    "$date": "2024-06-29T05:30:54.278Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-29T05:30:54.278Z"
+  },
+  "__v": 0
+}]

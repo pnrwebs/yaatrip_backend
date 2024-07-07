@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6670094799692507c4365446"
+  },
+  "name": "Hotel",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670094799692507c4365447"
+  },
+  "name": "Apartment",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670094799692507c4365448"
+  },
+  "name": "Villa",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670094799692507c4365449"
+  },
+  "name": "Home Stay",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6680274949329308ec7b04c6"
+  },
+  "name": "Personal Home",
+  "status": true,
+  "created_at": {
+    "$date": "2024-06-29T15:24:57.061Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-29T15:24:57.061Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6670094799692507c4365446"
+  },
+  "name": "WiFi",
+  "descriptions": "Free internet wifi available",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670094799692507c4365443"
+  },
+  "name": "Swimming Pool",
+  "descriptions": "Fresh water swimming pool to enjoy",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667da9044a31bb138db5c3aa"
+  },
+  "name": "Transportation",
+  "descriptions": "We provide updated Transportation",
+  "status": true,
+  "created_at": {
+    "$date": "2024-06-27T18:01:40.309Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-27T18:03:02.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fc1b4eea2a142a4fb934f"
+  },
+  "name": "Motor Bike",
+  "descriptions": "bike for local visit update",
+  "status": true,
+  "created_at": {
+    "$date": "2024-06-29T08:11:32.857Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-29T08:11:56.304Z"
+  },
+  "__v": 0
+}]

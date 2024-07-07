@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6670094799692507c4365446"
+  },
+  "name": "5 Star",
+  "descriptions": "5 Star Hotel",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6670094799692507c4365443"
+  },
+  "name": "4 Starr",
+  "descriptions": "This is 4 star hotel updated",
+  "status": true,
+  "createdAt": {
+    "$date": "2023-01-03T17:10:54.603Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T03:21:09.492Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-28T16:59:48.939Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "667d90feae94548a3b0d0d84"
+  },
+  "name": "4 Star",
+  "descriptions": "This is 4 star hotel",
+  "status": true,
+  "created_at": {
+    "$date": "2024-06-27T16:19:10.029Z"
+  },
+  "updated_at": {
+    "$date": "2024-06-27T16:19:10.029Z"
+  },
+  "__v": 0
+}]
